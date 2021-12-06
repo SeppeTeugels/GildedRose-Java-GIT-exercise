@@ -10,3 +10,5 @@ This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes
 As Bobby Johnson points out in his article ["Why Most Solutions to Gilded Rose Miss The Bigger Picture"](http://iamnotmyself.com/2012/12/07/why-most-solutions-to-gilded-rose-miss-the-bigger-picture), it'll actually give you
 better practice at handling a legacy code situation if you do this Kata in the original C#. However, I think this kata
 is also really useful for practicing writing good tests using different frameworks and approaches, and the small changes I've made help with that. I think it's also interesting to compare what the refactored code and tests look like in different programming languages.
+
+This is forked by Seppe Teugels
